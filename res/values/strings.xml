@@ -1,0 +1,20 @@
+<resources>
+    <string name="label_imagesvideos">Media</string>
+    <string name="label_jokes">Chistes</string>
+    <string name="label_postals">Postales</string>
+    <string name="label_softwhisper">Softwhisper</string>
+    
+    <string name="label_loading">Cargando...</string>
+    <string name="label_playing">Reproduciendo...</string>
+    <string name="possitive_button">Aceptar</string>
+    <string name="dialog_title">TTS dice:</string>
+	<string name="dialog_message_tts_fail">Error al iniciar el TTS, imposible reproducir.</string>
+	<string name="dialog_message_tts_lang_not_found">Error, TTS no puede encontrar el idioma.</string>
+	<string name="label_unknow">Proximamente</string>
+    <string name="label_question"> _?_ </string>
+	<string name="label_hear">Escuchar</string>
+		
+	<string name="share_button">Compartir</string>
+	<string name="button_accept">Aceptar</string>
+    
+</resources>
